@@ -1,6 +1,7 @@
 # bd
 
-Iniciamo el xamp
-le damos start al apache y mysql y los abrimos como administrador
-creamos una base de datos con el nombre "bd" y agregamos 3 columnas
-cada columna
+abrimos php iniciamos apache y mysqql abrimos el administrador de apache y mysql creamos una database con 3 columnas creamos los ids de las columnas id (key) usuario y password despues les dimos los valores 
+id (key)= int
+usuario=varchar
+password=varchar
+a todos les dimos 255 carcateres
