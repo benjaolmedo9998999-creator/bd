@@ -5,3 +5,6 @@ id (key)= int
 usuario=varchar
 password=varchar
 a todos les dimos 255 carcateres
+
+<img width="203" height="113" alt="image" src="https://github.com/user-attachments/assets/c13da81c-4a48-4d35-9e14-25216a336d3e" />
+
